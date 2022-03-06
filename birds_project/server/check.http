@@ -1,0 +1,8 @@
+GET http://localhost:3000/birds
+###
+PATCH http://localhost:3000/birds/1
+Content-Type: application/json
+
+{
+    "name": "Dominik Palatin"
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "observer": ["Thomas Shelby", "Jimmy Webb"],
+    "pic": "http://127.0.0.1:3000/images/Black-eared Miner.PNG",
+    "commonName": "Black-eared Miner",
+    "commonwealthStatus": "Critically Endangered",
+    "scientificName": "Manorina melanotis",
+    "count": 5
+  },
+  {
+    "id": 5,
+    "observer": ["Sabine Blumberg", "Abrama Gold"],
+    "pic": "http://127.0.0.1:3000/images/Eastern Bristlebird.jpg",
+    "commonName": "Eastern Bristlebird",
+    "commonwealthStatus": "Endangered",
+    "scientificName": "Dasyornis brachypterus",
+    "count": 2
+  },
+  {
+    "id": 7,
+    "observer": ["Arthur Shelby", "Bernie Baumgartner", "Lisa Simic"],
+    "pic": "http://127.0.0.1:3000/images/Swift Parrot.jpg",
+    "commonName": "Swift Parrot",
+    "commonwealthStatus": "Endangered",
+    "scientificName": "Lathamus discolor",
+    "count": 11
+  },
+  {
+    "id": 11,
+    "observer": ["Sabine Blumberg", "Polly Shelby"],
+    "pic": "http://127.0.0.1:3000/images/Gould's Petrel.jpg",
+    "commonName": "Southern Giant Petrel",
+    "commonwealthStatus": "Endangered",
+    "scientificName": "Macronectes giganteus",
+    "count": 7
+  },
+  {
+    "id": 13,
+    "observer": [],
+    "pic": "http://127.0.0.1:3000/images/Star Finch.jpg",
+    "commonName": "Star Finch",
+    "commonwealthStatus": "Presumed Extinct",
+    "scientificName": "Neochmia ruficauda ruficauda",
+    "count": 0
+  },
+  {
+    "id": 21,
+    "observer": ["Bernie Baumgartner", "Alfie Solomons", "Abrama Gold"],
+    "pic": "http://127.0.0.1:3000/images/Australian_Painted_Snipe.jpg",
+    "commonName": "Gould's Petrel",
+    "commonwealthStatus": "Vulnerable",
+    "scientificName": "Pterodroma leucoptera leucoptera",
+    "count": 3
+  },
+  {
+    "id": 22,
+    "observer": ["Luca Changretta"],
+    "pic": "http://127.0.0.1:3000/images/Mallee Emu-wren.PNG",
+    "commonName": "Mallee Emu-wren",
+    "commonwealthStatus": "Endangered",
+    "scientificName": "Stipiturus mallee",
+    "count": 12
+  },
+  {
+    "id": 26,
+    "observer": ["Alfie Solomons", "Jimmy Webb", "Mary Klobuscar"],
+    "pic": "http://127.0.0.1:3000/images/Coxen's Fig-Parrot.PNG",
+    "commonName": "Coxen's Fig-Parrot",
+    "commonwealthStatus": "Critically Endangered",
+    "scientificName": "Cyclopsitta diophthalma coxeni",
+    "count": 15
+  },
+  {
+    "id": 27,
+    "observer": ["Sabine Blumberg", "Polly Shelby"],
+    "pic": "http://127.0.0.1:3000/images/Chatham Albatross.PNG",
+    "commonName": "Chatham Albatross",
+    "commonwealthStatus": "Endangered",
+    "scientificName": "Thalassarche eremita",
+    "count": 13
+  },
+  {
+    "id": 31,
+    "observer": ["Michael Shelby", "Finn Shelby", "Johnny Dogs"],
+    "pic": "http://127.0.0.1:3000/images/Northern Royal Albatross.jpg",
+    "commonName": "Northern Royal Albatross",
+    "commonwealthStatus": "Endangered",
+    "scientificName": "Diomedea epomophora sanfordi",
+    "count": 22
+  }
+]

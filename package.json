@@ -1,0 +1,18 @@
+{
+  "name": "jest02",
+  "version": "1.0.0",
+  "main": "birds.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "supertest": "^6.2.2"
+  }
+}
